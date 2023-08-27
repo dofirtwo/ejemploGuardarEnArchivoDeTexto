@@ -1,0 +1,4 @@
+manzana
+pera 
+kiwi
+tomate
